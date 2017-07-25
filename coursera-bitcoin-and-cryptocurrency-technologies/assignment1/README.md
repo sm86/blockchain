@@ -1,6 +1,6 @@
-WEEK 1
-Assignment 1
-Problem Statement in Assignment1.pdf.
-Score: 83/100
-Grader Output in GraderOutput file.
+WEEK 1 <br/>
+Assignment 1 <br/>
+Problem Statement in Assignment1.pdf. <br/>
+Score: 83/100 <br/>
+Grader Output in GraderOutput file.<br/>
 
